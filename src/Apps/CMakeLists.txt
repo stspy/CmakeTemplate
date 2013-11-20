@@ -1,0 +1,3 @@
+SUBDIRS (VideoCap
+	ImageReader
+	VtkLineDisp) 
